@@ -1,0 +1,1 @@
+2024-10-30 09:45:40,152 - INFO - [STARTUP] Setup with "BELT_MAX_HEALTH" with maximum price to buy: 50

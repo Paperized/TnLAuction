@@ -1,0 +1,13 @@
+2024-10-31 20:05:52,211 - INFO - [STARTUP] Setup with "atk_speed_sera" with maximum price to buy: 29
+2024-10-31 20:06:27,647 - INFO - [SCAN] Started Scanning for items
+2024-10-31 20:06:28,985 - INFO - [PRICE] Price found: 
+2024-10-31 20:06:29,982 - INFO - [PRICE] Price found: 
+2024-10-31 20:06:30,982 - INFO - [PRICE] Price found: 
+2024-10-31 20:06:32,021 - INFO - [PRICE] Price found: 
+2024-10-31 20:06:33,024 - INFO - [PRICE] Price found: 
+2024-10-31 20:06:34,034 - INFO - [PRICE] Price found: 
+2024-10-31 20:06:35,029 - INFO - [PRICE] Price found: 
+2024-10-31 20:06:36,037 - INFO - [PRICE] Price found: 
+2024-10-31 20:06:37,029 - INFO - [PRICE] Price found: 
+2024-10-31 20:06:37,879 - INFO - [SCAN] Stopped scanning for items
+2024-10-31 20:06:38,067 - INFO - [PRICE] Price found: 

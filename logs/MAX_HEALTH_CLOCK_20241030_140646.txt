@@ -1,0 +1,51 @@
+2024-10-30 14:06:46,719 - INFO - [STARTUP] Setup with "MAX_HEALTH_CLOCK" with maximum price to buy: 50
+2024-10-30 14:07:24,825 - INFO - [SCAN] Started Scanning for items
+2024-10-30 14:07:25,997 - INFO - [PRICE] Price found: 190
+2024-10-30 14:07:25,998 - INFO - [LOWEST] Lowest price was 190
+2024-10-30 14:07:26,920 - INFO - [PRICE] Price found: 
+2024-10-30 14:07:27,831 - INFO - [PRICE] Price found: 190
+2024-10-30 14:07:28,745 - INFO - [PRICE] Price found: 190
+2024-10-30 14:07:29,655 - INFO - [PRICE] Price found: 190
+2024-10-30 14:07:30,563 - INFO - [PRICE] Price found: 190
+2024-10-30 14:07:31,470 - INFO - [PRICE] Price found: 
+2024-10-30 14:07:32,383 - INFO - [PRICE] Price found: 190
+2024-10-30 14:07:33,298 - INFO - [PRICE] Price found: 190
+2024-10-30 14:07:34,206 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:35,113 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:36,024 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:36,932 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:37,841 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:38,751 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:39,667 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:40,582 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:41,505 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:42,414 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:43,338 - INFO - [PRICE] Price found: 
+2024-10-30 14:07:44,258 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:45,172 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:46,077 - INFO - [PRICE] Price found: 
+2024-10-30 14:07:46,997 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:47,907 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:48,817 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:49,730 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:50,640 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:51,548 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:52,465 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:53,377 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:54,300 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:55,216 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:56,152 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:57,068 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:57,985 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:58,903 - INFO - [PRICE] Price found: 199
+2024-10-30 14:07:59,815 - INFO - [PRICE] Price found: 199
+2024-10-30 14:08:00,734 - INFO - [PRICE] Price found: 199
+2024-10-30 14:08:01,640 - INFO - [PRICE] Price found: 
+2024-10-30 14:08:02,556 - INFO - [PRICE] Price found: 199
+2024-10-30 14:08:03,477 - INFO - [PRICE] Price found: 199
+2024-10-30 14:08:04,396 - INFO - [PRICE] Price found: 199
+2024-10-30 14:08:05,307 - INFO - [PRICE] Price found: 199
+2024-10-30 14:08:06,219 - INFO - [PRICE] Price found: 
+2024-10-30 14:08:07,133 - INFO - [PRICE] Price found: 199
+2024-10-30 14:08:08,051 - INFO - [PRICE] Price found: 199
+2024-10-30 14:08:08,463 - INFO - [SCAN] Stopped scanning for items

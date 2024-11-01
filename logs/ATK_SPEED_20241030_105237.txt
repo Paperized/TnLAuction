@@ -1,0 +1,14 @@
+2024-10-30 10:52:37,710 - INFO - [STARTUP] Setup with "ATK_SPEED" with maximum price to buy: 27
+2024-10-30 10:52:44,816 - INFO - [SCAN] Started Scanning for items
+2024-10-30 10:52:45,348 - INFO - [PRICE] Price found: 70
+2024-10-30 10:52:45,349 - INFO - [LOWEST] Lowest price was 70
+2024-10-30 10:52:46,373 - INFO - [PRICE] Price found: 78
+2024-10-30 10:52:47,392 - INFO - [PRICE] Price found: 78
+2024-10-30 10:52:48,453 - INFO - [PRICE] Price found: 78
+2024-10-30 10:52:49,479 - INFO - [PRICE] Price found: 78
+2024-10-30 10:52:50,504 - INFO - [PRICE] Price found: 78
+2024-10-30 10:52:51,572 - INFO - [PRICE] Price found: 78
+2024-10-30 10:52:52,593 - INFO - [PRICE] Price found: 78
+2024-10-30 10:52:53,612 - INFO - [PRICE] Price found: 78
+2024-10-30 10:52:54,632 - INFO - [PRICE] Price found: 78
+2024-10-30 10:52:55,300 - INFO - [SCAN] Stopped scanning for items

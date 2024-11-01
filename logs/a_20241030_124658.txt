@@ -1,0 +1,1 @@
+2024-10-30 12:46:58,055 - INFO - [STARTUP] Setup with "a" with maximum price to buy: 1

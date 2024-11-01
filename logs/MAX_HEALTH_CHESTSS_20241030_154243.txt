@@ -1,0 +1,574 @@
+2024-10-30 15:42:43,892 - INFO - [STARTUP] Setup with "MAX_HEALTH_CHESTSS" with maximum price to buy: 25
+2024-10-30 15:42:49,774 - INFO - [SCAN] Started Scanning for items
+2024-10-30 15:42:50,140 - INFO - [PRICE] Price found: 
+2024-10-30 15:42:51,059 - INFO - [PRICE] Price found: 
+2024-10-30 15:42:51,970 - INFO - [PRICE] Price found: 
+2024-10-30 15:42:52,877 - INFO - [PRICE] Price found: 
+2024-10-30 15:42:53,786 - INFO - [PRICE] Price found: 
+2024-10-30 15:42:54,698 - INFO - [PRICE] Price found: 
+2024-10-30 15:42:55,624 - INFO - [PRICE] Price found: 81
+2024-10-30 15:42:55,625 - INFO - [LOWEST] Lowest price was 81
+2024-10-30 15:42:56,545 - INFO - [PRICE] Price found: 81
+2024-10-30 15:42:57,460 - INFO - [PRICE] Price found: 
+2024-10-30 15:42:58,382 - INFO - [PRICE] Price found: 
+2024-10-30 15:42:59,293 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:00,208 - INFO - [PRICE] Price found: 81
+2024-10-30 15:43:01,122 - INFO - [PRICE] Price found: 81
+2024-10-30 15:43:02,037 - INFO - [PRICE] Price found: 81
+2024-10-30 15:43:02,953 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:03,868 - INFO - [PRICE] Price found: 81
+2024-10-30 15:43:04,779 - INFO - [PRICE] Price found: 81
+2024-10-30 15:43:05,691 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:06,600 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:07,510 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:08,436 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:09,354 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:10,271 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:11,194 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:12,116 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:13,041 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:13,966 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:14,879 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:15,795 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:16,710 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:17,627 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:18,542 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:19,461 - INFO - [PRICE] Price found: 81
+2024-10-30 15:43:20,373 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:21,289 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:22,204 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:23,124 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:24,039 - INFO - [PRICE] Price found: 81
+2024-10-30 15:43:24,952 - INFO - [PRICE] Price found: 81
+2024-10-30 15:43:25,867 - INFO - [PRICE] Price found: 80
+2024-10-30 15:43:25,868 - INFO - [LOWEST] Lowest price was 80
+2024-10-30 15:43:26,786 - INFO - [PRICE] Price found: 80
+2024-10-30 15:43:27,698 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:28,624 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:29,548 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:30,459 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:31,373 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:32,282 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:33,193 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:34,105 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:35,012 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:35,929 - INFO - [PRICE] Price found: 80
+2024-10-30 15:43:36,844 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:37,769 - INFO - [PRICE] Price found: 80
+2024-10-30 15:43:38,683 - INFO - [PRICE] Price found: 80
+2024-10-30 15:43:39,595 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:40,504 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:41,422 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:42,335 - INFO - [PRICE] Price found: 80
+2024-10-30 15:43:43,259 - INFO - [PRICE] Price found: 80
+2024-10-30 15:43:44,188 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:45,101 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:46,014 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:46,934 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:47,845 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:48,771 - INFO - [PRICE] Price found: 80
+2024-10-30 15:43:49,684 - INFO - [PRICE] Price found: 80
+2024-10-30 15:43:50,609 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:51,524 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:52,447 - INFO - [PRICE] Price found: 80
+2024-10-30 15:43:53,366 - INFO - [PRICE] Price found: 80
+2024-10-30 15:43:54,281 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:55,197 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:56,116 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:57,037 - INFO - [PRICE] Price found: 80
+2024-10-30 15:43:57,950 - INFO - [PRICE] Price found: 80
+2024-10-30 15:43:58,866 - INFO - [PRICE] Price found: 
+2024-10-30 15:43:59,777 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:00,694 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:01,605 - INFO - [PRICE] Price found: 80
+2024-10-30 15:44:02,519 - INFO - [PRICE] Price found: 80
+2024-10-30 15:44:03,430 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:04,338 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:05,251 - INFO - [PRICE] Price found: 80
+2024-10-30 15:44:06,167 - INFO - [PRICE] Price found: 80
+2024-10-30 15:44:07,081 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:08,000 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:08,913 - INFO - [PRICE] Price found: 80
+2024-10-30 15:44:09,834 - INFO - [PRICE] Price found: 80
+2024-10-30 15:44:10,748 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:11,669 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:12,583 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:13,499 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:14,424 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:15,341 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:16,251 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:17,171 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:18,082 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:18,995 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:19,911 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:20,826 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:21,742 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:22,666 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:23,580 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:24,503 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:25,418 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:26,345 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:27,269 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:28,188 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:29,105 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:30,020 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:30,933 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:31,847 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:32,774 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:33,685 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:34,598 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:35,512 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:36,428 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:37,339 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:38,249 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:39,166 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:40,086 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:40,996 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:41,906 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:42,822 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:43,734 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:44,647 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:45,566 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:46,475 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:47,408 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:48,331 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:49,245 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:50,157 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:51,069 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:51,986 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:52,899 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:53,810 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:54,731 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:55,643 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:56,560 - INFO - [PRICE] Price found: 81
+2024-10-30 15:44:57,470 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:58,380 - INFO - [PRICE] Price found: 
+2024-10-30 15:44:59,293 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:00,212 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:01,128 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:02,061 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:02,974 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:03,886 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:04,800 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:05,714 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:06,630 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:07,547 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:08,464 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:09,377 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:10,293 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:11,207 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:12,126 - INFO - [PRICE] Price found: 81
+2024-10-30 15:45:13,042 - INFO - [PRICE] Price found: 81
+2024-10-30 15:45:13,956 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:14,892 - INFO - [PRICE] Price found: 81
+2024-10-30 15:45:15,811 - INFO - [PRICE] Price found: 81
+2024-10-30 15:45:16,722 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:17,633 - INFO - [PRICE] Price found: 81
+2024-10-30 15:45:18,553 - INFO - [PRICE] Price found: 81
+2024-10-30 15:45:19,472 - INFO - [PRICE] Price found: 81
+2024-10-30 15:45:20,387 - INFO - [PRICE] Price found: 81
+2024-10-30 15:45:21,301 - INFO - [PRICE] Price found: 81
+2024-10-30 15:45:22,213 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:23,124 - INFO - [PRICE] Price found: 81
+2024-10-30 15:45:24,037 - INFO - [PRICE] Price found: 81
+2024-10-30 15:45:24,947 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:25,857 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:26,767 - INFO - [PRICE] Price found: 81
+2024-10-30 15:45:27,682 - INFO - [PRICE] Price found: 81
+2024-10-30 15:45:28,589 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:29,496 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:30,411 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:31,322 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:32,230 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:33,155 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:34,077 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:34,996 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:35,916 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:36,837 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:37,756 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:38,678 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:39,601 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:40,517 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:41,439 - INFO - [PRICE] Price found: 81
+2024-10-30 15:45:42,358 - INFO - [PRICE] Price found: 81
+2024-10-30 15:45:43,271 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:44,194 - INFO - [PRICE] Price found: 81
+2024-10-30 15:45:45,113 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:46,027 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:46,943 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:47,855 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:48,764 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:49,680 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:50,598 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:51,516 - INFO - [PRICE] Price found: 81
+2024-10-30 15:45:52,424 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:53,332 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:54,245 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:55,159 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:56,066 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:56,976 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:57,881 - INFO - [PRICE] Price found: 
+2024-10-30 15:45:58,796 - INFO - [PRICE] Price found: 81
+2024-10-30 15:45:59,722 - INFO - [PRICE] Price found: 81
+2024-10-30 15:46:00,639 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:01,548 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:02,460 - INFO - [PRICE] Price found: 81
+2024-10-30 15:46:03,378 - INFO - [PRICE] Price found: 81
+2024-10-30 15:46:04,284 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:05,196 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:06,109 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:07,023 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:07,940 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:08,862 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:09,781 - INFO - [PRICE] Price found: 81
+2024-10-30 15:46:10,690 - INFO - [PRICE] Price found: 81
+2024-10-30 15:46:11,597 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:12,516 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:13,426 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:14,351 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:15,267 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:16,186 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:17,104 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:18,018 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:18,935 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:19,851 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:20,770 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:21,702 - INFO - [PRICE] Price found: 81
+2024-10-30 15:46:22,626 - INFO - [PRICE] Price found: 81
+2024-10-30 15:46:23,547 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:24,463 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:25,385 - INFO - [PRICE] Price found: 81
+2024-10-30 15:46:26,304 - INFO - [PRICE] Price found: 81
+2024-10-30 15:46:27,219 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:28,141 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:29,055 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:29,971 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:30,893 - INFO - [PRICE] Price found: 81
+2024-10-30 15:46:31,804 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:32,717 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:33,624 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:34,532 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:35,446 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:36,359 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:37,280 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:38,191 - INFO - [PRICE] Price found: 81
+2024-10-30 15:46:39,111 - INFO - [PRICE] Price found: 81
+2024-10-30 15:46:40,022 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:40,941 - INFO - [PRICE] Price found: 81
+2024-10-30 15:46:41,859 - INFO - [PRICE] Price found: 81
+2024-10-30 15:46:42,771 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:43,690 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:44,600 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:45,513 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:46,425 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:47,342 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:48,264 - INFO - [PRICE] Price found: 81
+2024-10-30 15:46:49,188 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:50,116 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:51,031 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:51,952 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:52,879 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:53,795 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:54,718 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:55,632 - INFO - [PRICE] Price found: 
+2024-10-30 15:46:56,567 - INFO - [PRICE] Price found: 72
+2024-10-30 15:46:56,567 - INFO - [LOWEST] Lowest price was 72
+2024-10-30 15:46:57,487 - INFO - [PRICE] Price found: 72
+2024-10-30 15:46:58,411 - INFO - [PRICE] Price found: 72
+2024-10-30 15:46:59,333 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:00,251 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:01,161 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:02,077 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:02,991 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:03,899 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:04,812 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:05,725 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:06,635 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:07,548 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:08,465 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:09,375 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:10,299 - INFO - [PRICE] Price found: 72
+2024-10-30 15:47:11,220 - INFO - [PRICE] Price found: 72
+2024-10-30 15:47:12,138 - INFO - [PRICE] Price found: 72
+2024-10-30 15:47:13,051 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:13,962 - INFO - [PRICE] Price found: 72
+2024-10-30 15:47:14,876 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:15,785 - INFO - [PRICE] Price found: 72
+2024-10-30 15:47:16,702 - INFO - [PRICE] Price found: 72
+2024-10-30 15:47:17,615 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:18,527 - INFO - [PRICE] Price found: 72
+2024-10-30 15:47:19,447 - INFO - [PRICE] Price found: 72
+2024-10-30 15:47:20,354 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:21,264 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:22,179 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:23,088 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:23,998 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:24,913 - INFO - [PRICE] Price found: 72
+2024-10-30 15:47:25,825 - INFO - [PRICE] Price found: 72
+2024-10-30 15:47:26,736 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:27,652 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:28,563 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:29,474 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:30,389 - INFO - [PRICE] Price found: 72
+2024-10-30 15:47:31,309 - INFO - [PRICE] Price found: 72
+2024-10-30 15:47:32,216 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:33,130 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:34,065 - INFO - [PRICE] Price found: 72
+2024-10-30 15:47:34,982 - INFO - [PRICE] Price found: 72
+2024-10-30 15:47:35,895 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:36,809 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:37,718 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:38,629 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:39,571 - INFO - [PRICE] Price found: 75
+2024-10-30 15:47:40,489 - INFO - [PRICE] Price found: 75
+2024-10-30 15:47:41,407 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:42,320 - INFO - [PRICE] Price found: 75
+2024-10-30 15:47:43,237 - INFO - [PRICE] Price found: 75
+2024-10-30 15:47:44,154 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:45,067 - INFO - [PRICE] Price found: 75
+2024-10-30 15:47:45,985 - INFO - [PRICE] Price found: 75
+2024-10-30 15:47:46,904 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:47,826 - INFO - [PRICE] Price found: 75
+2024-10-30 15:47:48,743 - INFO - [PRICE] Price found: 75
+2024-10-30 15:47:49,652 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:50,564 - INFO - [PRICE] Price found: 75
+2024-10-30 15:47:51,489 - INFO - [PRICE] Price found: 75
+2024-10-30 15:47:52,398 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:53,309 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:54,226 - INFO - [PRICE] Price found: 75
+2024-10-30 15:47:55,146 - INFO - [PRICE] Price found: 75
+2024-10-30 15:47:56,053 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:56,975 - INFO - [PRICE] Price found: 75
+2024-10-30 15:47:57,892 - INFO - [PRICE] Price found: 75
+2024-10-30 15:47:58,806 - INFO - [PRICE] Price found: 
+2024-10-30 15:47:59,721 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:00,637 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:01,554 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:02,479 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:03,422 - INFO - [PRICE] Price found: 75
+2024-10-30 15:48:04,347 - INFO - [PRICE] Price found: 75
+2024-10-30 15:48:05,265 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:06,186 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:07,107 - INFO - [PRICE] Price found: 75
+2024-10-30 15:48:08,032 - INFO - [PRICE] Price found: 75
+2024-10-30 15:48:08,952 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:09,864 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:10,792 - INFO - [PRICE] Price found: 75
+2024-10-30 15:48:11,723 - INFO - [PRICE] Price found: 75
+2024-10-30 15:48:12,650 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:13,568 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:14,483 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:15,403 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:16,316 - INFO - [PRICE] Price found: 75
+2024-10-30 15:48:17,229 - INFO - [PRICE] Price found: 75
+2024-10-30 15:48:18,144 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:19,057 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:19,968 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:20,884 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:21,802 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:22,725 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:23,638 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:24,553 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:25,462 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:26,386 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:27,300 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:28,217 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:29,123 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:30,033 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:30,944 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:31,858 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:32,768 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:33,688 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:34,596 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:35,509 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:36,428 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:37,338 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:38,254 - INFO - [PRICE] Price found: 50
+2024-10-30 15:48:38,254 - INFO - [LOWEST] Lowest price was 50
+2024-10-30 15:48:39,166 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:40,076 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:40,991 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:41,908 - INFO - [PRICE] Price found: 50
+2024-10-30 15:48:42,826 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:43,737 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:44,658 - INFO - [PRICE] Price found: 50
+2024-10-30 15:48:45,568 - INFO - [PRICE] Price found: 50
+2024-10-30 15:48:46,481 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:47,397 - INFO - [PRICE] Price found: 50
+2024-10-30 15:48:48,310 - INFO - [PRICE] Price found: 50
+2024-10-30 15:48:49,223 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:50,139 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:51,048 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:51,970 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:52,892 - INFO - [PRICE] Price found: 50
+2024-10-30 15:48:53,803 - INFO - [PRICE] Price found: 50
+2024-10-30 15:48:54,718 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:55,629 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:56,544 - INFO - [PRICE] Price found: 50
+2024-10-30 15:48:57,469 - INFO - [PRICE] Price found: 50
+2024-10-30 15:48:58,384 - INFO - [PRICE] Price found: 
+2024-10-30 15:48:59,303 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:00,226 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:01,143 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:02,059 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:02,979 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:03,895 - INFO - [PRICE] Price found: 50
+2024-10-30 15:49:04,814 - INFO - [PRICE] Price found: 50
+2024-10-30 15:49:05,736 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:06,663 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:07,574 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:08,497 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:09,410 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:10,333 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:11,259 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:12,175 - INFO - [PRICE] Price found: 50
+2024-10-30 15:49:13,097 - INFO - [PRICE] Price found: 50
+2024-10-30 15:49:14,024 - INFO - [PRICE] Price found: 50
+2024-10-30 15:49:14,943 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:15,867 - INFO - [PRICE] Price found: 75
+2024-10-30 15:49:16,788 - INFO - [PRICE] Price found: 75
+2024-10-30 15:49:17,705 - INFO - [PRICE] Price found: 75
+2024-10-30 15:49:18,628 - INFO - [PRICE] Price found: 75
+2024-10-30 15:49:19,544 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:20,458 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:21,374 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:22,296 - INFO - [PRICE] Price found: 75
+2024-10-30 15:49:23,221 - INFO - [PRICE] Price found: 75
+2024-10-30 15:49:24,136 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:25,055 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:25,973 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:26,888 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:27,804 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:28,720 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:29,631 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:30,544 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:31,462 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:32,373 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:33,290 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:34,203 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:35,118 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:36,033 - INFO - [PRICE] Price found: 81
+2024-10-30 15:49:36,948 - INFO - [PRICE] Price found: 81
+2024-10-30 15:49:37,880 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:38,791 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:39,712 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:40,625 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:41,538 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:42,456 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:43,368 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:44,298 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:45,217 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:46,136 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:47,044 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:47,960 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:48,869 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:49,786 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:50,703 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:51,620 - INFO - [PRICE] Price found: 81
+2024-10-30 15:49:52,536 - INFO - [PRICE] Price found: 81
+2024-10-30 15:49:53,450 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:54,365 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:55,287 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:56,201 - INFO - [PRICE] Price found: 81
+2024-10-30 15:49:57,110 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:58,020 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:58,935 - INFO - [PRICE] Price found: 
+2024-10-30 15:49:59,850 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:00,763 - INFO - [PRICE] Price found: 81
+2024-10-30 15:50:01,679 - INFO - [PRICE] Price found: 81
+2024-10-30 15:50:02,597 - INFO - [PRICE] Price found: 81
+2024-10-30 15:50:03,507 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:04,419 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:05,330 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:06,244 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:07,160 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:08,073 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:08,993 - INFO - [PRICE] Price found: 81
+2024-10-30 15:50:09,907 - INFO - [PRICE] Price found: 81
+2024-10-30 15:50:10,822 - INFO - [PRICE] Price found: 81
+2024-10-30 15:50:11,734 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:12,641 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:13,554 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:14,473 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:15,384 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:16,299 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:17,207 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:18,115 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:19,029 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:19,941 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:20,856 - INFO - [PRICE] Price found: 50
+2024-10-30 15:50:21,772 - INFO - [PRICE] Price found: 50
+2024-10-30 15:50:22,682 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:23,607 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:24,520 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:25,431 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:26,345 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:27,267 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:28,185 - INFO - [PRICE] Price found: 50
+2024-10-30 15:50:29,108 - INFO - [PRICE] Price found: 50
+2024-10-30 15:50:30,033 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:30,956 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:31,872 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:32,786 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:33,723 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:34,641 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:35,570 - INFO - [PRICE] Price found: 50
+2024-10-30 15:50:36,503 - INFO - [PRICE] Price found: 50
+2024-10-30 15:50:37,436 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:38,347 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:39,280 - INFO - [PRICE] Price found: 50
+2024-10-30 15:50:40,202 - INFO - [PRICE] Price found: 50
+2024-10-30 15:50:41,113 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:42,024 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:42,938 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:43,853 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:44,768 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:45,676 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:46,589 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:47,501 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:48,415 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:49,328 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:50,241 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:51,154 - INFO - [PRICE] Price found: 50
+2024-10-30 15:50:52,076 - INFO - [PRICE] Price found: 50
+2024-10-30 15:50:52,994 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:53,905 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:54,828 - INFO - [PRICE] Price found: 50
+2024-10-30 15:50:55,747 - INFO - [PRICE] Price found: 50
+2024-10-30 15:50:56,666 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:57,580 - INFO - [PRICE] Price found: 
+2024-10-30 15:50:58,500 - INFO - [PRICE] Price found: 50
+2024-10-30 15:50:59,418 - INFO - [PRICE] Price found: 50
+2024-10-30 15:51:00,333 - INFO - [PRICE] Price found: 50
+2024-10-30 15:51:01,248 - INFO - [PRICE] Price found: 50
+2024-10-30 15:51:02,164 - INFO - [PRICE] Price found: 
+2024-10-30 15:51:03,078 - INFO - [PRICE] Price found: 50
+2024-10-30 15:51:04,003 - INFO - [PRICE] Price found: 50
+2024-10-30 15:51:04,916 - INFO - [PRICE] Price found: 
+2024-10-30 15:51:05,832 - INFO - [PRICE] Price found: 
+2024-10-30 15:51:06,750 - INFO - [PRICE] Price found: 50
+2024-10-30 15:51:07,667 - INFO - [PRICE] Price found: 50
+2024-10-30 15:51:08,579 - INFO - [PRICE] Price found: 
+2024-10-30 15:51:09,496 - INFO - [PRICE] Price found: 
+2024-10-30 15:51:17,420 - INFO - [PRICE] Price found: 
+2024-10-30 15:51:18,340 - INFO - [PRICE] Price found: 
+2024-10-30 15:51:19,261 - INFO - [PRICE] Price found: 
+2024-10-30 15:51:20,177 - INFO - [PRICE] Price found: 
+2024-10-30 15:51:21,089 - INFO - [PRICE] Price found: 
+2024-10-30 15:51:22,009 - INFO - [PRICE] Price found: 
+2024-10-30 15:51:22,927 - INFO - [PRICE] Price found: 81
+2024-10-30 15:51:23,849 - INFO - [PRICE] Price found: 81
+2024-10-30 15:51:24,769 - INFO - [PRICE] Price found: 
+2024-10-30 15:51:25,681 - INFO - [PRICE] Price found: 
+2024-10-30 15:51:26,600 - INFO - [PRICE] Price found: 
+2024-10-30 15:51:27,553 - INFO - [PRICE] Price found: 81
+2024-10-30 15:51:28,472 - INFO - [PRICE] Price found: 81
+2024-10-30 15:51:29,387 - INFO - [PRICE] Price found: 
+2024-10-30 15:51:30,308 - INFO - [PRICE] Price found: 
+2024-10-30 15:51:31,222 - INFO - [PRICE] Price found: 
+2024-10-30 15:51:32,133 - INFO - [PRICE] Price found: 
+2024-10-30 15:51:33,047 - INFO - [PRICE] Price found: 
+2024-10-30 15:51:33,968 - INFO - [PRICE] Price found: 81
+2024-10-30 15:51:34,882 - INFO - [PRICE] Price found: 81
+2024-10-30 15:51:35,801 - INFO - [PRICE] Price found: 
+2024-10-30 15:51:36,032 - INFO - [SCAN] Stopped scanning for items
